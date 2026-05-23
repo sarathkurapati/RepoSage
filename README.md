@@ -70,7 +70,7 @@ frontend/     # React + Tailwind chat UI
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/byreddy1303/RepoSage.git
+git clone https://github.com/sarathkurapati/RepoSage.git
 cd RepoSage
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
